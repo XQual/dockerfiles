@@ -1,4 +1,4 @@
-FROM xstudio-debian-java8:V1
+FROM xqual/xstudio-debian-java8:v3.3
 MAINTAINER Jean Marin <jean@xqual.com>
 	
 
