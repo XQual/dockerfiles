@@ -1,4 +1,4 @@
-FROM xqual/xagent-java8-git:V3.3
+FROM xqual/xagent-java8-git:v3.3
 MAINTAINER Jean Marin <jean@xqual.com>
 
 # get and install MAVEN
