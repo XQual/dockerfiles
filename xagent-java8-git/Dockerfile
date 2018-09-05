@@ -1,4 +1,4 @@
-FROM xagent-java8:V1
+FROM xqual/xagent-java8:V3.3
 MAINTAINER Jean Marin <jean@xqual.com>
 
 
